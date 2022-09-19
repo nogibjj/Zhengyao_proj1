@@ -19,4 +19,4 @@ chmod +x query.py
 ```
 
 ## Dataset
-[dataset source] (https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization)
+[dataset source](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization)
