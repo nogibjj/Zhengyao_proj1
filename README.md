@@ -1,7 +1,7 @@
 # Zhengyao_proj1
 
 ## Project Workflow
-![drawio](file:///Users/bbs_celia/Downloads/image.png)
+![image](https://github.com/nogibjj/Zhengyao_proj1/blob/main/image.png)
 
 ## Test CLI
 ```
