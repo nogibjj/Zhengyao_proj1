@@ -1,7 +1,7 @@
 # Zhengyao_proj1
 
 ## Project Workflow
-![drawio] (file:///Users/bbs_celia/Downloads/image.png)
+![drawio](file:///Users/bbs_celia/Downloads/image.png)
 
 ## Test CLI
 ```
@@ -19,5 +19,4 @@ chmod +x query.py
 ```
 
 ## Dataset
-[dataset source](https://www.kaggle.com/datasets/jackywang529/michelin-restaurants)
 [dataset source](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization)
